@@ -5,3 +5,4 @@ PyPDF2
 sentence_transformers
 transformers
 ollama
+chromadb
