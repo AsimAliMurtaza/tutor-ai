@@ -1,0 +1,7 @@
+re
+faiss
+numpy
+PyPDF2
+sentence_transformers
+transformers
+ollama
