@@ -25,7 +25,7 @@ app.add_middleware(
 )
 
 client = MongoClient(
-    "mongodb+srv://moasimmurtaza:u6bHfg5pGzaJvRDz@cluster0.t3yr7os.mongodb.net/cognivia?retryWrites=true&w=majority")
+    "mongodb")
 db = client["cognivia"]
 notes_collection = db["generated_notes"]
 
